@@ -1,0 +1,55 @@
+
+	hh
+	{
+		font-size:60px;
+		font-family: Cooper Black;
+		color:Orange;
+		text-align:center;
+	}
+	body
+	{
+		background-image: url('bb3.png');
+		background-attachment: fixed;
+		background-size: 100% 100%;
+		background-repeat: no-repeat;
+	}
+	k
+	{
+		font-size:50px;
+		font-family: Lucida Calligraphy;
+		text-align: left;
+
+	}
+h3
+	{
+		background-image: url('images1.jpg');
+		width: 1100px;
+		height: 60px;
+		margin: auto;
+		color: White;
+		font-size: 20px;
+		}
+	div img
+	{
+		width: 300px;
+		height:250px;
+		border-radius: 50%;
+		border: 3px solid black;
+
+	}
+img
+	{
+	
+		
+		width:80px;
+		height: 80px;
+		border-radius: 50%;
+		border: 3px solid black;
+		text-align:center;
+}
+p
+{
+	font-size:60px;
+	color: Gray;
+	font-family: Ravie;
+}

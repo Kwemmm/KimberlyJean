@@ -1,0 +1,60 @@
+
+
+ul img
+{
+		width:200px;
+		height: 200px;
+		border-radius: 50%;
+		border: 3px solid black;
+		
+}
+
+
+body
+	{
+		background-image: url('bleee.jpg');
+		background-attachment: fixed;
+		background-size: 100% 100%;
+		background-repeat: no-repeat;
+	}
+p
+	{
+		text-align: center;
+		font-family: Calibri;
+		font-size: 100px;
+		color: Navy Blue;
+	}
+h2
+{
+	font-size: 100 px;
+	text-align: center;
+}
+
+text
+{
+	text-align: 90px;
+}
+h1
+{
+	
+	font-size: 75px
+}
+img
+{
+
+
+		width:80px;
+		height: 80px;
+		border-radius: 50%;
+		border: 3px solid black;
+}
+hh
+{
+	font-size: 20px;
+}
+
+strong
+{
+	font-size: 25px;
+	text-align: center;
+}
